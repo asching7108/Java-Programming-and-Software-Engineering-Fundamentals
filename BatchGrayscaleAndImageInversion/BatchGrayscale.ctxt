@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BatchGrayscale
+comment1.params=inImg
+comment1.target=edu.duke.ImageResource\ getGrayscaleImage(edu.duke.ImageResource)
+comment2.params=
+comment2.target=void\ convertGrayscaleImages()
+numComments=3

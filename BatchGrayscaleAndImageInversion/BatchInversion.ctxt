@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BatchInversion
+comment1.params=inImg
+comment1.target=edu.duke.ImageResource\ getInversionImage(edu.duke.ImageResource)
+comment2.params=
+comment2.target=void\ convertInversionImages()
+numComments=3
