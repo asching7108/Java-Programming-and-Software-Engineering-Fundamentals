@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Part1
+comment1.params=s
+comment1.target=int\ getIndexOfATG(java.lang.String)
+comment2.params=s\ posATG
+comment2.target=int\ getIndexOfTAA(java.lang.String,\ int)
+comment3.params=s
+comment3.target=java.lang.String\ findSimpleGene(java.lang.String)
+comment4.params=
+comment4.target=void\ testSimpleGene()
+numComments=5
